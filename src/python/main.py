@@ -1,6 +1,6 @@
 from lcd_widget_ui import Ui_distancewindow             #importing class from lcdwindow.py
 import os, sys
-from serial import Serial 
+from serial import Serial
 from PyQt5 import QtCore, QtGui, QtWidgets 
 from PyQt5.QtCore import QTimer
 
